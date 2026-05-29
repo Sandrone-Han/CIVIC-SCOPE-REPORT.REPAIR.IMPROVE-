@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "523806101136",
+    "project_id": "civic-scope-8d66d",
+    "storage_bucket": "civic-scope-8d66d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523806101136:android:c152127abaf3918b9b1215",
+        "android_client_info": {
+          "package_name": "com.example.civic_scope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523806101136-qtndidabgom1mp7cg416hibdip0oeis9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEtEEs1Df9KsCqb_1FzZNinkBe6OZPncQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523806101136-qtndidabgom1mp7cg416hibdip0oeis9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "523806101136-l1ragmt3ci8cpf30vhrrhsdjaf2hftse.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.civicScope"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
