@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDwfGaKXznVIht0bPvsV3jjMV3En9re70k',
+    apiKey: '',
     appId: '1:523806101136:web:cdfbe86151d562df9b1215',
     messagingSenderId: '523806101136',
     projectId: 'civic-scope-8d66d',
