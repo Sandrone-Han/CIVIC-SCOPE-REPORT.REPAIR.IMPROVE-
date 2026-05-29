@@ -27,7 +27,7 @@ import '../../../core/utils/methods/auto_complete_predictions.dart';
 // Prototype-only default key for faster team testing.
 // In production/release this must be injected securely (CI secrets, remote config, etc).
 const String _prototypeGoogleMapsApiKey =
-    'AIzaSyCho5-OnMIO1tRNYj11iiLtQKkFVMfPvAo';
+    '';
 const String _googleGeocodingApiKey = String.fromEnvironment(
   'GOOGLE_GEOCODING_API_KEY',
   defaultValue: _prototypeGoogleMapsApiKey,
