@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBEtEEs1Df9KsCqb_1FzZNinkBe6OZPncQ',
+    apiKey: '',
     appId: '1:523806101136:android:c152127abaf3918b9b1215',
     messagingSenderId: '523806101136',
     projectId: 'civic-scope-8d66d',
