@@ -49,7 +49,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyADHxxaGrMawt7uSInbjDzHPx9ZpO6eUuw',
+    apiKey: '',
     appId: '1:523806101136:ios:fb2e3c6ce87207699b1215',
     messagingSenderId: '523806101136',
     projectId: 'civic-scope-8d66d',
